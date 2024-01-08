@@ -4,3 +4,4 @@
 - создание ветки с именем branch_name
 > **git commit -am "text"** - команда, которая объеденяет две команды (git add. И git commit –m «text») в одну.
 > **git checkout –b branch_name** - команда позволяет объеденить в себе две команды: git branch branch_name + git checkout branch_name. Это позволяет быстрей создавать новую ветку и одновременно переходить в нее.
+> **git branch -d <название ветки>** – Команда, чтобы удалить ветку
